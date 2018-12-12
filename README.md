@@ -1,4 +1,4 @@
-# Simple Function Curves
+# Simple Interpolation
 
 Utilities for 2D curves generation and storage using less memory than [lookup tables](https://en.wikipedia.org/wiki/Lookup_table), featuring:
 
